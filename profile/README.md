@@ -1,4 +1,4 @@
-# MentorTogether
+# Mentor Together
 Mentor Together provides empowering one-to-one mentoring relationships that helps young people from disadvantaged backgrounds break the inequality of opportunity.
 
 ### About Us
